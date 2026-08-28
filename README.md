@@ -89,7 +89,7 @@ timeline
            : Cohort Analysis Implementation
            : SQL Automation Projects
     section Current
-      2025 : Marketing Analyst at Amazon
+      2025 : GTM Strategy Analyst at PepsiCo
            : 18% Conversion Rate Improvement
            : Advanced GA4 Analytics
            : Tableau Dashboard Architecture
@@ -190,7 +190,7 @@ flowchart TB
 
 ```mermaid
 graph LR
-    subgraph Amazon May 2025 - Present
+    subgraph PepsiCo May 2025 - Present
         A1[Campaign Analysis SQL]
         A2[Tableau KPI Dashboards]
         A3[GA4 Performance Tracking]
