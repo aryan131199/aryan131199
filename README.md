@@ -62,7 +62,7 @@ mindmap
 
 <br/>
 
-> **Marketing Analyst** with nearly **4 years of experience** driving data-driven marketing decisions across **Amazon** and **Mphasis**. Specialized in transforming complex campaign data into actionable insights using **SQL**, **Tableau**, and **Power BI**. Proven track record of improving conversion rates by **18%**, click-through rates by **22%**, and ROAS by **20%** through advanced analytics and audience segmentation.
+> **Marketing Analyst** with nearly **4 years of experience** driving data-driven marketing decisions across **PepsiCo** and **Mphasis**. Specialized in transforming complex campaign data into actionable insights using **SQL**, **Tableau**, and **Power BI**. Proven track record of improving conversion rates by **18%**, click-through rates by **22%**, and ROAS by **20%** through advanced analytics and audience segmentation.
 
 <br/>
 
