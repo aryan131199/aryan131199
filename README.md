@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Aryan%20Khokhar&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=GTM&MarketingStrategy%20Analyst%20%7C%20Data%20Storyteller%20%7C%20Insight%20Engineer&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Aryan%20Khokhar&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Marketing%20Analyst%20%7C%20Data%20Storyteller%20%7C%20Insight%20Engineer&descSize=18&descAlignY=55" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Master's+Student+at+Hult+International+Business+School;4+Years+Experience+%7C+SQL+%2B+Tableau+%2B+Power+BI;Transforming+Marketing+Data+into+Strategic+Insights" alt="Typing SVG" />
