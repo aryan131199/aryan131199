@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Aryan%20Khokhar&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Marketing%20Analyst%20%7C%20Data%20Storyteller%20%7C%20Insight%20Engineer&descSize=18&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Aryan%20Khokhar&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=GTM%20and%20Marketing%20Strategy%20Analyst%20%7C%20Data%20Storyteller%20%7C%20Insight%20Engineer&descSize=18&descAlignY=55" /> 
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Master's+Student+at+Hult+International+Business+School;4+Years+Experience+%7C+SQL+%2B+Tableau+%2B+Power+BI;Transforming+Marketing+Data+into+Strategic+Insights" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 
 <!-- Profile Badges -->
 <img src="https://img.shields.io/badge/Location-San%20Francisco%2C%20CA-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
-<img src="https://img.shields.io/badge/Role-GTM%20%26%20Marketing%20Analyst-green?style=for-the-badge&logo=google-analytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Role-GTM%20and%20Marketing%20Strategy%20Analyst-green?style=for-the-badge&logo=google-analytics&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Experience-4%20Years-orange?style=for-the-badge&logo=clockify&logoColor=white" />
 
 <br/><br/>
@@ -62,7 +62,7 @@ mindmap
 
 <br/>
 
-> **Marketing Analyst** with nearly **4 years of experience** driving data-driven marketing decisions across **PepsiCo** and **Mphasis**. Specialized in transforming complex campaign data into actionable insights using **SQL**, **Tableau**, and **Power BI**. Proven track record of improving conversion rates by **18%**, click-through rates by **22%**, and ROAS by **20%** through advanced analytics and audience segmentation.
+> **GTM & Marketing Strategy Analyst** with nearly **4 years of experience** driving data-driven marketing decisions across **PepsiCo** and **Mphasis**. Specialized in transforming complex campaign data into actionable insights using **SQL**, **Tableau**, and **Power BI**. Proven track record of improving conversion rates by **18%**, click-through rates by **22%**, and ROAS by **20%** through advanced analytics and audience segmentation. 
 
 <br/>
 
