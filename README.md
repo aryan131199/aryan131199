@@ -1,22 +1,24 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Aryan%20Khokhar&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=GTM%20and%20Marketing%20Strategy%20Analyst%20%7C%20Data%20Storyteller%20%7C%20Insight%20Engineer&descSize=18&descAlignY=55" /> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Aryan%20Khokhar&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=GTM%20and%20Marketing%20Strategy%20Analyst%20%7C%20Growth%20Analysis%20%7C%20Customer%20Insight&descSize=18&descAlignY=55" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Master's+Student+at+Hult+International+Business+School;4+Years+Experience+%7C+SQL+%2B+Tableau+%2B+Power+BI;Transforming+Marketing+Data+into+Strategic+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=GTM+Strategy+Analyst+at+PepsiCo;MSc+International+Business+Analytics+%7C+Hult;SQL+%2B+Power+BI+%2B+Tableau+%2B+GA4+%2B+BigQuery" alt="Typing SVG" />
 
 <br/>
 
 <!-- Profile Badges -->
-<img src="https://img.shields.io/badge/Location-San%20Francisco%2C%20CA-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
-<img src="https://img.shields.io/badge/Role-GTM%20and%20Marketing%20Strategy%20Analyst-green?style=for-the-badge&logo=google-analytics&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Experience-4%20Years-orange?style=for-the-badge&logo=clockify&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-CA%2C%20USA-blue?style=for-the-badge&logo=google-maps&logoColor=white" />
+<img src="https://img.shields.io/badge/Role-GTM%20and%20Marketing%20Strategy%20Analyst-green?style=for-the-badge&logo=google-analytics&logoColor=white" />
+<img src="https://img.shields.io/badge/Experience-Nearly%204%20Years-orange?style=for-the-badge&logo=clockify&logoColor=white" />
 
 <br/><br/>
 
 <!-- Contact Badges -->
-[![Email](https://img.shields.io/badge/Email-khokhar.aryan13%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khokhar.aryan13@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-aryankhokhar.com-141414?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aryankhokhar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-khokhar-40394b40a/)
+[![Email](https://img.shields.io/badge/Email-aryan.khokhar351%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.khokhar351@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B1%20628%20268--8022-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+16282688022)
 
 </div>
@@ -32,29 +34,32 @@
 ```mermaid
 mindmap
   root((Aryan Khokhar))
-    Analytics Expertise
-      Campaign Performance
+    Strategy and Growth
+      GTM Strategy
+      Growth Strategy
+      Market Analysis
+      Customer Strategy
+      Strategic Planning
+      Business Optimization
+    Business and Customer Analytics
       Customer Segmentation
       Cohort Analysis
+      Behavioral Analysis
       Funnel Analysis
+      Trend Analysis
       A/B Testing
-      Attribution Modeling
-    Technical Skills
+    Business Intelligence
       SQL
+      Power BI with DAX
       Tableau
-      Power BI
-      Google Analytics GA4
-      Python
-      Excel Advanced
-    Business Impact
-      18% Conversion Lift
-      22% CTR Increase
-      20% ROAS Improvement
-      35% Faster Reporting
+      Advanced Excel
+      KPI Development
+      Dashboard Development
     Data Platforms
+      Google BigQuery
       Snowflake
-      BigQuery
       Amazon Redshift
+      Google Analytics 4
       Google Tag Manager
 ```
 
@@ -62,7 +67,7 @@ mindmap
 
 <br/>
 
-> **GTM & Marketing Strategy Analyst** with nearly **4 years of experience** driving data-driven marketing decisions across **PepsiCo** and **Mphasis**. Specialized in transforming complex campaign data into actionable insights using **SQL**, **Tableau**, and **Power BI**. Proven track record of improving conversion rates by **18%**, click-through rates by **22%**, and ROAS by **20%** through advanced analytics and audience segmentation. 
+> **GTM & Marketing Strategy Analyst** with nearly **4 years of experience** in GTM strategy, growth strategy, market analysis, customer insights, and business performance across **PepsiCo** and **Mphasis**. Skilled in **SQL**, **Power BI**, **Tableau**, **GA4**, **Google BigQuery**, and **Excel** to analyze trends, identify growth opportunities, and support strategic decision-making. Experienced in GTM planning, customer segmentation, business optimization, KPI analysis, and cross-functional strategy execution — translating data-driven insights into recommendations that support business growth and operational performance.
 
 <br/>
 
@@ -76,23 +81,20 @@ mindmap
 timeline
     title Professional Journey
     section Education
-      2022 : Bachelors Business Administration
-           : OP Jindal Global University
-      2025 : MSc International Business Analytics
-           : Hult International Business School
-    section Early Career
-      2022 : Marketing Analyst at Mphasis
-           : Campaign Performance Analysis
-           : Power BI Dashboard Development
-    section Growth
-      2023 : Customer Segmentation Lead
-           : Cohort Analysis Implementation
-           : SQL Automation Projects
-    section Current
-      2025 : GTM Strategy Analyst at PepsiCo
-           : 18% Conversion Rate Improvement
-           : Advanced GA4 Analytics
-           : Tableau Dashboard Architecture
+      Jun 2022 : Bachelor of Business Administration
+               : OP Jindal Global University, India
+      Aug 2025 : MSc International Business Analytics
+               : Hult International Business School, CA USA
+    section Mphasis
+      Mar 2022 - Aug 2024 : Marketing Analyst, India
+                          : Customer and acquisition analysis
+                          : Power BI dashboard development
+                          : Segmentation, cohort and A/B testing
+    section PepsiCo
+      May 2025 - Present : GTM Strategy Analyst, CA USA
+                         : GTM and growth strategy analysis
+                         : Executive dashboards and KPI frameworks
+                         : Channel, funnel and journey evaluation
 ```
 
 </div>
@@ -101,7 +103,7 @@ timeline
 
 ---
 
-## 🎨 Marketing Analytics Workflow
+## 🎨 GTM Analytics Workflow
 
 <div align="center">
 
@@ -111,58 +113,58 @@ flowchart TB
         A1[Google Analytics GA4]
         A2[Meta Ads Manager]
         A3[Google Ads]
-        A4[CRM Systems]
+        A4[Commercial and CRM Data]
     end
-    
+
     subgraph Data Processing
         B1[SQL Queries]
         B2[Data Cleaning]
-        B3[ETL Pipeline]
+        B3[BigQuery Pipelines]
     end
-    
+
     subgraph Analytics Layer
-        C1[Campaign Performance]
+        C1[Channel Performance]
         C2[Customer Segmentation]
-        C3[Funnel Analysis]
+        C3[Funnel and Journey Analysis]
         C4[A/B Testing]
-        C5[Attribution Modeling]
+        C5[Attribution Analysis]
     end
-    
+
     subgraph Visualization
-        D1[Tableau Dashboards]
-        D2[Power BI Reports]
+        D1[Power BI with DAX]
+        D2[Tableau Dashboards]
         D3[Excel Analytics]
     end
-    
+
     subgraph Business Impact
-        E1[Conversion Optimization]
-        E2[Budget Allocation]
-        E3[Audience Targeting]
-        E4[ROI Improvement]
+        E1[Conversion Efficiency]
+        E2[Resource Allocation]
+        E3[Targeting and Channel Strategy]
+        E4[Faster Decision Cycles]
     end
-    
+
     A1 --> B1
     A2 --> B1
     A3 --> B2
     A4 --> B3
-    
+
     B1 --> C1
     B2 --> C2
     B3 --> C3
     B1 --> C4
     B2 --> C5
-    
+
     C1 --> D1
     C2 --> D1
     C3 --> D2
     C4 --> D2
     C5 --> D3
-    
+
     D1 --> E1
     D2 --> E2
     D1 --> E3
     D2 --> E4
-    
+
     style A1 fill:#4285F4
     style A2 fill:#1877F2
     style A3 fill:#FBBC04
@@ -191,29 +193,29 @@ flowchart TB
 ```mermaid
 graph LR
     subgraph PepsiCo May 2025 - Present
-        A1[Campaign Analysis SQL]
-        A2[Tableau KPI Dashboards]
-        A3[GA4 Performance Tracking]
-        A4[Customer Segmentation]
-        
-        A1 -->|18% Conversion Lift| A5[Business Impact]
-        A2 -->|35% Faster Reporting| A5
-        A3 -->|22% CTR Increase| A5
-        A4 -->|15% Retention Gain| A5
+        A1[GTM and Growth Strategy Analysis]
+        A2[Executive Dashboards and KPI Frameworks]
+        A3[Channel and Funnel Evaluation]
+        A4[Automated Business Reporting]
+
+        A1 -->|20% Performance Visibility| A5[Business Impact]
+        A2 -->|25% Faster Reporting| A5
+        A3 -->|10% Conversion Efficiency| A5
+        A4 -->|40% Less Manual Analysis| A5
     end
-    
+
     subgraph Mphasis Mar 2022 - Aug 2024
-        B1[Power BI Development]
-        B2[SQL Campaign Analysis]
-        B3[Cohort Analysis]
-        B4[A/B Testing Support]
-        
-        B1 -->|30% Automation| B5[Efficiency Gains]
-        B2 -->|14% Conversion Lift| B5
-        B3 -->|Enhanced Targeting| B5
-        B4 -->|Reduced CAC| B5
+        B1[Customer and Acquisition Analysis]
+        B2[Power BI Dashboard Development]
+        B3[Segmentation and Cohort Analysis]
+        B4[A/B Testing and Funnel Analysis]
+
+        B1 -->|14% Growth Performance| B5[Efficiency Gains]
+        B2 -->|Faster Decision-Making| B5
+        B3 -->|More Targeted GTM| B5
+        B4 -->|Better Acquisition Efficiency| B5
     end
-    
+
     style A1 fill:#FF9A00
     style A2 fill:#FF9A00
     style A3 fill:#FF9A00
@@ -237,13 +239,13 @@ graph LR
 <div align="center">
 
 ```mermaid
-pie title Marketing Analytics Skill Distribution
-    "Campaign Performance Analysis" : 25
-    "Data Visualization (Tableau/Power BI)" : 20
-    "SQL & Database Management" : 18
-    "Customer Segmentation" : 15
-    "A/B Testing & Optimization" : 12
-    "Marketing Attribution" : 10
+pie title Where the Work Actually Goes
+    "GTM and Growth Strategy Analysis" : 25
+    "Dashboards and KPI Frameworks" : 20
+    "SQL and Data Modelling" : 18
+    "Customer Segmentation and Cohorts" : 15
+    "Funnel, Journey and A/B Testing" : 12
+    "Attribution and Channel Analysis" : 10
 ```
 
 </div>
@@ -264,12 +266,12 @@ pie title Marketing Analytics Skill Distribution
 <!-- Visualization Tools -->
 **📈 Visualization Platforms**
 
+![Power BI](https://img.shields.io/badge/Power_BI_with_DAX-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-Expert-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Expert-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 <!-- Marketing Analytics Tools -->
-**📱 Marketing Analytics**
+**📱 Digital & Analytics Platforms**
 
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics_GA4-Expert-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 ![Google Tag Manager](https://img.shields.io/badge/GTM-Advanced-246FDB?style=for-the-badge&logo=google-tag-manager&logoColor=white)
@@ -279,8 +281,8 @@ pie title Marketing Analytics Skill Distribution
 <!-- Data Warehouses -->
 **🗄️ Data Platforms**
 
-![Snowflake](https://img.shields.io/badge/Snowflake-Proficient-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-Proficient-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-Proficient-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Amazon_Redshift-Proficient-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
@@ -295,13 +297,15 @@ pie title Marketing Analytics Skill Distribution
 
 | Metric | Achievement | Impact Area |
 |--------|-------------|-------------|
-| **Conversion Rate Improvement** | 🎯 **+18%** | Campaign Optimization |
-| **Click-Through Rate Increase** | 📊 **+22%** | Ad Creative Testing |
-| **ROAS Enhancement** | 💰 **+20%** | Budget Optimization |
-| **Reporting Speed** | ⚡ **+35%** | Dashboard Automation |
-| **Customer Retention** | 🔄 **+15%** | Segmentation Strategy |
-| **CAC Reduction** | 💵 **-14%** | Audience Targeting |
-| **Manual Work Reduction** | 🤖 **-30%** | SQL Automation |
+| **Revenue & Marketing Performance Visibility** | 🎯 **+20%** | GTM & Growth Strategy Analysis |
+| **Manual Analysis Reduction** | 🤖 **-40%** | Automated Business Reporting |
+| **Reporting Time** | ⚡ **-25%** | Executive Dashboards & KPI Frameworks |
+| **Cross-Functional Decision Cycles** | 🤝 **15% faster** | Strategy & Business Planning |
+| **Resource Allocation Effectiveness** | 💰 **+15%** | Channel & Growth Prioritisation |
+| **Customer Engagement** | 📊 **+12%** | Market, Customer & Behavioral Analysis |
+| **Conversion Efficiency** | 🔄 **+10%** | Channel, Funnel & Journey Evaluation |
+| **Business & Growth Performance** | 📈 **+14%** | Customer & Acquisition Analysis (Mphasis) |
+| **Manual Reporting Effort** | 🧾 **-30%** | SQL & Excel Automation (Mphasis) |
 
 </div>
 
@@ -330,15 +334,10 @@ pie title Marketing Analytics Skill Distribution
 </div>
 
 **Architecture Highlights:**
-- 🎯 Implemented **Star Schema** dimensional modeling for OLAP workloads
-- 📦 Built **dbt transformations** for Bronze → Silver → Gold data pipeline
-- 🔄 Designed **ETL workflows** for Northwind database migration
-- 📊 Created **business process analysis** for sales, inventory, and customer reporting
-
-**Business Impact:**
-- ✅ Scalable data warehouse reducing query times by 60%
-- ✅ Automated reporting pipeline for stakeholder dashboards
-- ✅ Improved data quality through systematic profiling and validation
+- 🎯 Implemented **star schema** dimensional modelling with `dim_customer`, `dim_product`, `dim_employee`, `dim_date` and `fact_sales`, `fact_inventory`, `fact_purchase_order`
+- 📦 Built **dbt transformations** across staging, warehouse and one-big-table reporting layers
+- 🔄 Designed **ETL workflows** over the Northwind OLTP source, documented with physical and logical ERDs
+- 📊 Created **OBT reporting models** for sales overview, product inventory and customer reporting
 
 <br/>
 
@@ -355,21 +354,21 @@ pie title Marketing Analytics Skill Distribution
 </div>
 
 **Technical Architecture:**
-- 🥉 **Bronze Layer**: Raw data ingestion with Auto Loader
-- 🥈 **Silver Layer**: Schema enforcement + SCD Type 2 tracking
-- 🥇 **Gold Layer**: Star schema fact/dimension tables for BI
-- 🔐 **Unity Catalog**: Governance and data lineage
+- 🥉 **Bronze Layer**: raw ingestion from a Postgres CDC source
+- 🥈 **Silver Layer**: schema enforcement, cleansing and **SCD Type 2** change tracking
+- 🥇 **Gold Layer**: aggregate marts including daily revenue, orders and **customer RFM** facts
+- 🔐 **Unity Catalog**: catalog and schema governance across bronze, silver and gold
 
 **Key Features:**
-- ⚡ CDC pipeline for real-time data synchronization
-- 🔄 Time travel capabilities for audit and rollback
-- 📊 Customer segmentation with RFM analysis
-- ✅ **8/8 unit tests passed** validating business logic
+- ⚡ dbt models on `dbt-databricks` for the mart layer
+- 🧪 Great Expectations data-quality checks alongside the pipeline
+- 📊 Customer value segmentation and RFM scoring
+- ✅ **8/8 unit tests passing** on the silver transforms
 
 <br/>
 
 #### 3. 📊 Retail Data Analytics: Python + SQL Integration
-> **End-to-End ETL with Kaggle API**
+> **End-to-End ETL with the Kaggle API**
 
 <div align="center">
 
@@ -381,6 +380,82 @@ pie title Marketing Analytics Skill Distribution
 </div>
 
 **Project Workflow:**
-- 📥 **Data Extraction**: Automated Kaggle API downloads
-- 🧹 **Data Cleaning**: Pandas-based preprocessing and normalization
-- 💾 **Database Integration**: SQL Server loading and index
+- 📥 **Data Extraction**: automated Kaggle API download and unzip of the retail orders dataset
+- 🧹 **Data Cleaning**: pandas preprocessing, null handling and column normalisation
+- 💾 **Database Integration**: load into SQL Server for querying
+- 📈 **Analysis**: SQL queries over sales, profit and shipping dimensions to surface product and regional trends
+
+<br/>
+
+#### 4. 📡 Cross-Channel Ads Dashboard
+> **Unified Paid-Media Reporting across Facebook, Google and TikTok**
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://cross-channel-ads-dashboard.vercel.app)
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/aryan131199/cross-channel--ads-dashboard)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly Dash](https://img.shields.io/badge/Plotly_Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</div>
+
+**What It Does:**
+- 🔗 Unifies **Facebook, Google and TikTok Ads** data into a single reporting view
+- 📊 Interactive spend, conversion and channel-performance breakdowns
+- 🚀 Deployed as a production-ready Plotly Dash application
+
+<br/>
+
+---
+
+## 📂 More Work
+
+<div align="center">
+
+| Project | Focus |
+|---|---|
+| [Customer Trends Analysis](https://github.com/aryan131199/customer-trends-data-analysis-sql-python-powerbi) | SQL extraction → Python exploration → Power BI reporting |
+| [Customer Segmentation](https://github.com/aryan131199/data-analytics-customer-segmentation) | Behavioural and transactional segmentation for targeting |
+| [Cohort Analysis](https://github.com/aryan131199/cohort_analysis) | Retention and repeat behaviour across acquisition cohorts |
+| [Multi-Source Marketing Analytics](https://github.com/aryan131199/multi-source-marketing-analytics) | Blending acquisition sources into one reporting layer |
+| [Sales Insights](https://github.com/aryan131199/sales-insights-data-analysis-using-tableau-and-sql) | SQL + Tableau revenue and regional analysis |
+| [Tableau & Power BI Dashboards](https://github.com/aryan131199/dashboards-development-using-tableau-and-powerbi) | KPI, conversion and performance dashboard patterns |
+| [Power BI Portfolio](https://github.com/aryan131199/powerbi-portfolio) | Reports and DAX measures for executive summaries |
+
+</div>
+
+<br/>
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Completed |
+|---|---|---|
+| **MSc International Business (Analytics)** | Hult International Business School — CA, USA | Aug 2025 |
+| **Bachelor of Business Administration** | OP Jindal Global University — India | Jun 2022 |
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🤝 Open to Opportunities
+
+Working on customer, channel, or commercial performance problems? Let's talk.
+
+[![Portfolio](https://img.shields.io/badge/aryankhokhar.com-141414?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aryankhokhar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-khokhar-40394b40a/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryan.khokhar351@gmail.com)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer" />
+
+</div>
